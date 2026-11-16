@@ -1,0 +1,16 @@
+# Generic copy-ready metadata. This is NOT an official platform schema.
+# Verify the current target platform's fields and requirements before use.
+work:
+  title: ""
+  short_description: ""
+  subject: ""
+  education_level: ""
+  grade_or_phase: ""
+  curriculum_reference: ""
+  learning_objectives: []
+  assessment_description: ""
+  learning_mode: ""
+  learning_method: ""
+  attachment_filename: ""
+  source_documents: []
+  needs_teacher_confirmation: []

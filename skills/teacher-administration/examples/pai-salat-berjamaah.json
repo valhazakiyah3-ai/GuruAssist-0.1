@@ -1,0 +1,38 @@
+{
+  "school_name": "Contoh SMP (data simulasi)",
+  "subject": "Pendidikan Agama Islam dan Budi Pekerti",
+  "education_level": "SMP",
+  "grade": "VII",
+  "phase": "D (perlu diverifikasi dengan kurikulum yang digunakan)",
+  "semester": "Belum ditentukan",
+  "curriculum": "Belum ditentukan — lampirkan dokumen kurikulum/CP yang berlaku",
+  "topic": "Salat berjamaah",
+  "duration": "3 JP (contoh; sesuaikan jadwal sekolah)",
+  "learning_outcomes": [],
+  "learning_objectives": [
+    "Draf tujuan: peserta didik menjelaskan konsep dan ketentuan salat berjamaah berdasarkan sumber pembelajaran yang disetujui guru.",
+    "Draf tujuan: peserta didik menunjukkan urutan/praktik yang dipelajari melalui demonstrasi sesuai kriteria guru."
+  ],
+  "student_context": "Gunakan deskripsi kelas secara agregat; jangan masukkan nama atau data pribadi peserta didik.",
+  "learning_method": ["Diskusi", "Demonstrasi"],
+  "learning_mode": "Tatap muka (contoh)",
+  "materials": ["Buku PAI yang digunakan sekolah", "Sumber resmi atau referensi guru yang telah diverifikasi"],
+  "activities": {
+    "opening": ["Apersepsi dan penyampaian tujuan pembelajaran"],
+    "core": ["Mengkaji sumber", "Diskusi", "Demonstrasi atau simulasi sesuai konteks"],
+    "closing": ["Refleksi", "Umpan balik", "Kesimpulan"]
+  },
+  "assessment": {
+    "formative": ["Pertanyaan pemahaman", "Observasi proses belajar"],
+    "summative": ["Tugas atau demonstrasi sesuai tujuan dan kebijakan guru"],
+    "criteria": ["Ketepatan pemahaman", "Kesesuaian praktik dengan materi yang telah diverifikasi"]
+  },
+  "references": [],
+  "needs_confirmation": [
+    "Kurikulum dan CP resmi yang digunakan sekolah",
+    "Penempatan materi pada kelas/fase",
+    "Rujukan fikih dan materi yang disetujui sekolah",
+    "Alokasi waktu aktual",
+    "Format modul ajar/RPP sekolah"
+  ]
+}

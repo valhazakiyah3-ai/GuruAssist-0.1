@@ -1,0 +1,29 @@
+{
+  "school_name": "Nama satuan pendidikan (boleh dikosongkan)",
+  "subject": "Mata pelajaran",
+  "education_level": "Jenjang pendidikan",
+  "grade": "Kelas",
+  "phase": "Fase (jika digunakan)",
+  "semester": "Semester/tahun ajaran",
+  "curriculum": "Nama dan versi kurikulum/kerangka",
+  "topic": "Topik atau unit pembelajaran",
+  "duration": "Alokasi waktu dan jumlah pertemuan",
+  "learning_outcomes": ["Kutipan CP/standar dari dokumen sumber; jangan dikarang"],
+  "learning_objectives": ["Tujuan pembelajaran yang disusun guru/AI untuk ditinjau"],
+  "student_context": "Kebutuhan belajar secara agregat; tanpa nama atau identitas pribadi",
+  "learning_method": ["Metode/model yang dipilih"],
+  "learning_mode": "Tatap muka/daring/hybrid",
+  "materials": ["Materi, media, atau sumber belajar"],
+  "activities": {
+    "opening": ["Aktivitas pendahuluan"],
+    "core": ["Aktivitas inti"],
+    "closing": ["Aktivitas penutup"]
+  },
+  "assessment": {
+    "formative": ["Asesmen formatif"],
+    "summative": ["Asesmen sumatif (jika diperlukan)"],
+    "criteria": ["Kriteria keberhasilan yang disepakati"]
+  },
+  "references": ["Judul, penerbit/instansi, tahun, atau URL sumber yang benar-benar digunakan"],
+  "needs_confirmation": ["Hal yang belum pasti dan wajib diperiksa guru"]
+}
